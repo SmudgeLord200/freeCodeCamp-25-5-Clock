@@ -45,6 +45,10 @@
   width: 100%;
 }
 
+#break-decrement, #break-increment, #session-decrement, #session-increment {
+  cursor: pointer;
+}
+
 .timer-wrap {
   border: 2px double black;
   display: flex;
